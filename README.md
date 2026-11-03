@@ -27,7 +27,7 @@ The chatbot uses the Llama 3.2 model to generate responses and maintains convers
 ```text
 AI-Chatbot/
 │
-├── app.py
+├── chatbot.py
 ├── requirements.txt
 └── README.md
 ```
@@ -37,7 +37,7 @@ AI-Chatbot/
 ### Step 1: Clone the Repository
 
 ```bash
-git clone <your-github-repository-url>
+git clone <https://github.com/Hamalesh-SV/simple-ai-chatbot>
 ```
 
 ### Step 2: Navigate to the Project Folder
